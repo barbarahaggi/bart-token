@@ -84,7 +84,7 @@
     }
 
     .about{
-        background-image: url(/assets/363466-dinheiro-que-cai-de-cima-isolado-no-fundo-branco-vetor.jpg);
+        background-image: url(assets/363466-dinheiro-que-cai-de-cima-isolado-no-fundo-branco-vetor.jpg);
         background-position: center;
     }
 
@@ -93,7 +93,7 @@
       .buy{
         height: 70vh;
         background-color:  white;
-        background-image: url(/assets/bart\ editado.png);
+        background-image: url(assets/bart\ editado.png);
         background-repeat: no-repeat;
         background-size: 200px;
         background-position: right bottom;
@@ -150,7 +150,7 @@
 
       .road-map{
         height: 70vh;
-        background-image: url(/assets/7da696f1987d39249d42946f331ccc1b.jpg);
+        background-image: url(assets/7da696f1987d39249d42946f331ccc1b.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center center;
@@ -205,7 +205,7 @@
 
       .find-us{
         height: 50vh;
-        background-image: url(/assets/e322799e5fc390c442b017b7a1f11aa1.png);
+        background-image: url(assets/e322799e5fc390c442b017b7a1f11aa1.png);
         background-color: #F5DEB3;
         background-position: bottom right;
         background-size: 250px;
